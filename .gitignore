@@ -1,0 +1,10 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+
+# The delivered debug APK is kept; other archives are not.
+artifacts/*.zip
+artifacts/*.aab

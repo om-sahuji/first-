@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Focus Lock</string>
+    <string name="accessibility_service_label">Focus Lock blocking</string>
+    <string name="accessibility_service_description">Focus Lock watches which app comes to the front during a focus session so that blocked apps can be replaced by the Focus screen. It reads only package names — never screen content, text, or passwords. You can turn it off at any time in Android settings.</string>
+</resources>

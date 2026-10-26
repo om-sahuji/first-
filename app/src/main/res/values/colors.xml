@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#D9530F</color>
+    <color name="focus_paper">#FFF8F1</color>
+    <color name="focus_status_bar">#00000000</color>
+</resources>
